@@ -75,7 +75,7 @@ function Projects() {
             <ProjectCard
               imgPath={Book}
               isBlog={false}
-              title="BOOK STORE ( Landing Page )"
+              title="Eatly Is The Food Delivery Dashboard"
               ghLink="https://github.com/Nurillo04/eatly.git"
               demoLink="https://eatly-ten.vercel.app/"
             />
